@@ -1,7 +1,7 @@
 ![Hello, world](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Lexend&size=35&color=6D49F7FF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Marjhonie!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Lexend&size=35&color=6D49F7FF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🙋🏻;+I'm+Marjhonie;" />
 </h1>
 <h3 align="center">Welcome, I'm a Web developer with a passion for creating websites that excel in both functionality and user experience. I thrive on transforming concepts into captivating interactive experiences, utilizing my expertise in coding!</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/0*MLqvFzwwZFAuOgup.gif">
