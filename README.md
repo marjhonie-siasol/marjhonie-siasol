@@ -9,8 +9,6 @@
 
 | ⚙️ **Im just a Jr Developer**
 
-| 👨‍💻 Check out my repositories at [https://github.com/itsauzor](https://github.com/itsauzor)
-
 | 💬 Lets talk about **Web development🌐**
 
 | 📩 Mail me at **siasolmarjhonie@gmail.com**
