@@ -23,12 +23,11 @@
 <a href="https://fb.com/itsauzor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itsauzor" height="30" width="40" /></a>
 <a href="https://twitter.com/@itsauzor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@itsauzor" height="30" width="40" /></a>
 <a href="https://instagram.com/itsauzor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsauzor" height="30" width="40" /></a>
+<a href="https://tiktok.com/@auz_dev" target="blank"><img align="center" src="https://img.shields.io/badge/-%23000000.svg?logo=TikTok&logoColor=white" alt="auz_dev" height="34" width="47" /></a>
 <a href="https://discord.gg/itsauzor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="itsauzor" height="35" width="40" /></a>
 <a href="https://linkedin.com/in/marjhonie-siasol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marjhonie-siasol" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/_itsauzor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_itsauzor" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/_itsauzor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_itsauzor" height="30" width="40" /></a> 
 </p>
-
-<a href="https://tiktok.com/@auz_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="auz_devr" height="30" width="40" /></a>
 
 # 💻 Tech Stack:
 
@@ -74,7 +73,6 @@
 ![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
 
 
 
