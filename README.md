@@ -4,29 +4,29 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Lexend&size=45&color=6D49F7FF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🙋🏻;+I'm+Marjhonie;" />
     <div align="center">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="35" height="35"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="35" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="**35**" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
 </h1>
 <h3 align="center">Welcome, I'm a Web developer with a passion for creating websites that excel in both functionality and user experience. I thrive on transforming concepts into captivating interactive experiences, utilizing my expertise in coding!</h3>
