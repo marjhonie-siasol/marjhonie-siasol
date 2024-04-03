@@ -1,6 +1,6 @@
 ![Hello, world](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 <h1 align="center">Hi 🙋🏻‍♂️, call me Marjhonie</h1>
-<h3 align="center">Welcome, I'm a web developer with a passion for creating websites that excel in both functionality and user experience. I thrive on transforming concepts into captivating interactive experiences, utilizing my expertise in coding!</h3>
+<h3 align="center">Welcome, I'm a Web developer with a passion for creating websites that excel in both functionality and user experience. I thrive on transforming concepts into captivating interactive experiences, utilizing my expertise in coding!</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/0*MLqvFzwwZFAuOgup.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsauzor&label=Profile%20views&color=0e75b6&style=flat" alt="itsauzor" /> </p>
