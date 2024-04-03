@@ -46,7 +46,7 @@
 | 😆 For real **light themes attract bugs lol.**
 
 # ↪️ Im here:
-<p align="right">
+<p align="center">
 <a href="https://fb.com/itsauzor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itsauzor" height="30" width="40" /></a>
 <a href="https://twitter.com/@itsauzor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@itsauzor" height="30" width="40" /></a>
 <a href="https://instagram.com/itsauzor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsauzor" height="30" width="40" /></a>
