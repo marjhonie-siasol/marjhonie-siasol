@@ -29,7 +29,7 @@
 </div>
 </h1>
 <h3 align="center">Welcome, I'm a Web developer with a passion for creating websites that excel in both functionality and user experience. I thrive on transforming concepts into captivating interactive experiences, utilizing my expertise in coding!</h3>
-<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=itsauzor&label=Profile%20views&color=0e75b6&style=flat" alt="itsauzor" />
