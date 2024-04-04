@@ -33,7 +33,7 @@
 </h1>
 <h3 align="center">Welcome, I'm a Web developer with a passion for creating websites that excel in both functionality and user experience. I thrive on transforming concepts into captivating interactive experiences, utilizing my expertise in coding!</h3>
 
-<img  align="right" alt="Coding" width="230" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+<img  align="right" alt="Coding" width="210" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
     
 | ⚙️ **Im just a Jr Developer**
 
