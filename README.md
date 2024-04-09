@@ -54,7 +54,31 @@
 <a href="https://www.leetcode.com/_itsauzor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_itsauzor" height="30" width="40" /></a> 
 </p>
 
-# ⚙️ Tech Stack:
+# ⚙️ Stack & Tools:
+
+<div align="center">
+</a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/Postman" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="postman" width="40" height="40"/> 
+</a>
+
+</a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/Postman" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/> 
+</a>
+
+
+</a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/Postman" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="postman" width="40" height="40"/> 
+</a>
+
+</a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/Postman" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="postman" width="40" height="40"/> 
+</a>
+
+<div/>
 
 <p align="center">  
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -77,10 +101,6 @@
 </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/Mysql" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/> 
-</a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/Postman" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="47" height="47"/> 
-</a>
 </p>
 
 <div align="center">
@@ -94,6 +114,8 @@
 
 
 <div/>
+
+
     
 <img align="center" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
