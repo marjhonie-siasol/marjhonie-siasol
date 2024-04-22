@@ -37,11 +37,8 @@
     
 | ⚙️ **Im just a Jr Developer**
 
-| 💬 Lets talk about **Web development🌐**
-
 | 📩 Mail me at **siasolmarjhonie@gmail.com**
 
-| 😆 For real **light themes attract bugs lol.**
 
 # ↪️ Im here:
 <p align="center">
