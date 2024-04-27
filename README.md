@@ -7,7 +7,6 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Lexend&size=45&color=6D49F7FF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🙋🏻;+I'm+Marjhonie;" />
     <div align="center">
-        
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="30" height="30"/>
