@@ -33,9 +33,9 @@
 </h1>
 <h3 align="center">I'm a junior software developer enthusiastic about crafting diverse software solutions. Whether it's designing sleek websites or developing efficient applications, I thrive on creating user friendly experiences. Transforming ideas into reality through coding is my passion!</h3>
 
-
+<p align="center">
 # 📩 **siasolmarjhonie@gmail.com**
-
+</p>
 
 # ↪️ Im here:
 <p align="center">
