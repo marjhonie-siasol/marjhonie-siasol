@@ -31,7 +31,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
 </h1>
-<h2 align="center">I'm a Full Stack Developer dedicated to crafting comprehensive software solutions. I specialize in designing intuitive front-end interfaces and building robust back-end systems. My passion is transforming ideas into functional and efficient applications, ensuring seamless user experiences.</h2>
+<h2 align="center">I'm a junior software developer enthusiastic about crafting diverse software solutions. Whether it's designing sleek websites or developing efficient applications, I thrive on creating user friendly experiences. Transforming ideas into reality through coding is my passion!</h2>
 
 📩 **siasolmarjhonie@gmail.com**
 
