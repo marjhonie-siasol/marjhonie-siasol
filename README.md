@@ -32,7 +32,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
 </h1>
-<h2 align="center">I'm a software developer enthusiast about crafting diverse software solutions. Whether it's designing sleek websites or developing efficient applications, I thrive on creating user friendly experiences. Transforming ideas into reality through coding is my passion.</h2>
+<h2 align="center">I'm a full-stack developer who loves building all kinds of software. Whether it's making attractive websites or creating efficient apps, I enjoy making user-friendly experiences. I turn ideas into reality with my coding skills, handling both the front-end and back-end of projects.</h2>
 
 📩 **siasolmarjhonie@gmail.com**
 
