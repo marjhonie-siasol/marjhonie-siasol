@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Full-Stack Software Engineer 
 
-📚 **BSIT - 3rd**‎ ‎ |‎ ‎ 🌏 **Cebu, Philippines**‎ ‎ |‎ ‎ 📩 **<a href="mailto:siasolmarjhonie@gmail.com">siasolmarjhonie@gmail.com</a>**
+📚 **BSIT - 3rd**‎ ‎ |‎ ‎ 🌏 **AI Developer**‎ ‎ |‎ ‎ 📩 **<a href="mailto:siasolmarjhonie@gmail.com">siasolmarjhonie@gmail.com</a>**
 
 <a href="your-linkedin-url" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn" width="40" height="40"/></a>
 <a href="your-tiktok-url" target="_blank"><img src="https://img.icons8.com/color/48/000000/tiktok--v1.png" alt="TikTok" width="40" height="40"/></a>
