@@ -1,8 +1,17 @@
 # 🧑🏻‍💻 Full-Stack Software Engineer 
 
-### 🛠️ Stack & Tools
+📚 **BSIT - 3rd**‎ ‎ |‎ ‎ 🌏 **Cebu, Philippines**‎ ‎ |‎ ‎ 📩 **<a href="mailto:siasolmarjhonie@gmail.com">siasolmarjhonie@gmail.com</a>**
 
-<p align="center">
+<a href="your-linkedin-url" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn" width="40" height="40"/></a>
+<a href="your-tiktok-url" target="_blank"><img src="https://img.icons8.com/color/48/000000/tiktok--v1.png" alt="TikTok" width="40" height="40"/></a>
+<a href="your-instagram-url" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/></a>
+<a href="your-facebook-url" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" width="40" height="40"/></a>
+
+---
+
+### </ Stack & Tools >
+
+<p align="left">
   <!-- Languages & Frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -46,3 +55,4 @@
 </p>
 
 ---
+
