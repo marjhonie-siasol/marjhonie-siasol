@@ -2,10 +2,10 @@
 
 ⚙️ **AI Developer** ‎ |‎ ‎ 📩 **<a href="mailto:siasolmarjhonie@gmail.com">siasolmarjhonie@gmail.com</a>**
 
-<a href="your-linkedin-url" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn" width="40" height="40"/></a>
-<a href="your-tiktok-url" target="_blank"><img src="https://img.icons8.com/color/48/000000/tiktok--v1.png" alt="TikTok" width="40" height="40"/></a>
-<a href="your-instagram-url" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/></a>
-<a href="your-facebook-url" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/marjhonie-siasol/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn" width="40" height="40"/></a>
+<a href="https://www.tiktok.com/@marjhonie.dev" target="_blank"><img src="https://img.icons8.com/color/48/000000/tiktok--v1.png" alt="TikTok" width="40" height="40"/></a>
+<a href="https://www.instagram.com/marjhonie.dev/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/></a>
+<a href="https://www.facebook.com/marjhonie.dev" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" width="40" height="40"/></a>
 
 ---
 
