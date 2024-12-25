@@ -43,7 +43,7 @@
   <img width="50" src="https://img.icons8.com/color/100/typescript.png" alt="TypeScript" />
   <img width="50" src="https://img.icons8.com/color/100/python.png" alt="Python" />
   <img width="53" src="https://img.icons8.com/color/100/java-coffee-cup-logo.png" alt="Java" />
-  <img width="50" src="https://img.icons8.com/external-those-icons-flat-those-icons/96/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="MySQL" />
+  <img width="45" src="https://img.icons8.com/external-those-icons-flat-those-icons/96/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="MySQL" />
   <img width="50" src="https://img.icons8.com/color/100/postgreesql.png" alt="PostgreSQL" />
   <img width="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="MongoDB" />
   <img width="50" src="https://img.icons8.com/color/100/firebase.png" alt="Firebase" />
@@ -55,7 +55,7 @@
   <img width="50" src="https://img.icons8.com/officexs/80/java-eclipse.png" alt="Eclipse" />
   <img width="50" src="https://img.icons8.com/color/144/apache-netbeans.png" alt="Netbeans" />
   <img width="50" src="https://img.icons8.com/color/100/git.png" alt="Git" />
-  <img width="50" src="https://img.icons8.com/glyph-neue/256/FFFFFF/github.png" alt="github"/>
+  <img width="50" src="https://img.icons8.com/glyph-neue/256/FFFFFF/github.png" alt="Github"/>
   <img width="50" src="https://img.icons8.com/color/240/gitlab.png" alt="Gitlab" />
   <img width="45" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-bitbucket-is-a-web-based-version-control-repository-hosting-service-logo-shadow-tal-revivo.png" alt="Bitbucket" />
   <img width="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="Postman"/>
