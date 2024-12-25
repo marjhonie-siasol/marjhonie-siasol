@@ -54,11 +54,13 @@
   <img width="40" src="https://img.icons8.com/officexs/80/java-eclipse.png" alt="Eclipse" />
   <img width="40" src="https://img.icons8.com/color/144/apache-netbeans.png" alt="Netbeans" />
   <img width="40" src="https://img.icons8.com/color/100/git.png" alt="Git" />
+  <img width="40" src="https://img.icons8.com/glyph-neue/256/FFFFFF/github.png" alt="github"/>
   <img width="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-bitbucket-is-a-web-based-version-control-repository-hosting-service-logo-shadow-tal-revivo.png" alt="Bitbucket" />
   <img width="40" src="https://img.icons8.com/color/240/gitlab.png" alt="Gitlab" />
   <img width="40" src="https://img.icons8.com/fluency/144/azure-1.png" alt="Azure" />
   <img width="40" src="https://img.icons8.com/nolan/128/amazon-web-services.png" alt="AWS" />
   <img width="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman" />
+  <img width="40" src="https://img.icons8.com/fluency/240/chatgpt--v2.png" alt="chatgpt--v2"/>
   <img width="40" src="https://img.icons8.com/fluency/240/docker.png" alt="docker" />
   <img width="40" src="https://img.icons8.com/color/96/linux--v1.png" alt="Linux" />
   <img width="40" src="https://img.icons8.com/color/100/ubuntu.png" alt="Ubuntu" />
