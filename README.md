@@ -10,7 +10,7 @@
   <a href="https://www.instagram.com/marjhonie.dev/" target="_blank"><img src="https://img.icons8.com/fluency/240/instagram-new.png" alt="Instagram" width="47" height="47" align="left"/></a>
   <a href="https://www.tiktok.com/@marjhonie.dev" target="_blank"><img src="https://img.icons8.com/color/480/tiktok--v1.png" alt="TikTok" width="47" height="47" align="left"/></a>
 
-  <img src="https://img.icons8.com/color/100/gmail-new.png" alt="gmail" width="25" height="25" align="center"/> <span>siasolmarjhonie@gmail.com</span>
+  <img src="https://img.icons8.com/color/100/gmail-new.png" alt="gmail" width="25" height="25" align="center"/> siasolmarjhonie@gmail.com
 </div>
 
 <br>
