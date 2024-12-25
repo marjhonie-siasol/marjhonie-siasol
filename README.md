@@ -17,7 +17,7 @@
 
 ---
 
-### <img src="https://github.com/user-attachments/assets/744e0cbd-18c1-4db7-9317-56dc9cf90619" alt="image" width="30" align="center" /> Stack & Tools
+### <img src="https://github.com/user-attachments/assets/744e0cbd-18c1-4db7-9317-56dc9cf90619" alt="image" width="25" align="center" /> Stack & Tools
 
 <br>
 
