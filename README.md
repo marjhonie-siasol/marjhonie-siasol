@@ -22,7 +22,7 @@
 <br>
 
 <p align="left">
-    <img width="50" height="50" src="https://img.icons8.com/color/100/html-5.png" alt="HTML5">
+    <img width="52" height="52" src="https://img.icons8.com/color/100/html-5.png" alt="HTML5">
     <img width="50" height="50" src="https://img.icons8.com/color/100/css3.png" alt="CSS3">
     <img width="45" height="45" src="https://img.icons8.com/color/100/react-native.png" alt="React">
     <img width="50" height="50" src="https://img.icons8.com/color/100/angularjs.png" alt="Angular">
