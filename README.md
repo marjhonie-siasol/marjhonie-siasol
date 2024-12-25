@@ -17,7 +17,7 @@
 
 ---
 
-### <img src="https://github.com/user-attachments/assets/744e0cbd-18c1-4db7-9317-56dc9cf90619" alt="image" width="25" align="center" /> Stack & Tools
+### <img src="https://github.com/user-attachments/assets/744e0cbd-18c1-4db7-9317-56dc9cf90619" alt="image" width="28" align="center" /> Stack & Tools
 
 <br>
 
@@ -32,14 +32,15 @@
     <img width="50" height="50" src="https://img.icons8.com/officexs/160/express-js.png" alt="ExpressJS">
     <img width="45" height="45" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png" alt="Django">
     <img width="50" height="50" src="https://img.icons8.com/color/100/spring-logo.png" alt="Spring Boot">
-    <img width="50" height="50" src="https://img.icons8.com/color/100/java-coffee-cup-logo.png" alt="Java">
-    <img width="50" height="50" src="https://img.icons8.com/color/100/python.png" alt="Python">
     <img width="50" height="50" src="https://img.icons8.com/color/100/javascript.png" alt="JavaScript">
     <img width="50" height="50" src="https://img.icons8.com/color/100/typescript.png" alt="TypeScript">
+    <img width="50" height="50" src="https://img.icons8.com/color/100/python.png" alt="Python">
+    <img width="50" height="50" src="https://img.icons8.com/color/100/java-coffee-cup-logo.png" alt="Java">
     <img width="45" height="45" src="https://img.icons8.com/external-those-icons-flat-those-icons/96/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="MySQL">
     <img width="50" height="50" src="https://img.icons8.com/color/100/postgreesql.png" alt="PostgreSQL"/>
     <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="MongoDB">
     <img width="50" height="50" src="https://img.icons8.com/color/100/firebase.png" alt="Firebase">
+    <img width="50" height="50" src="https://img.icons8.com/emoji/144/snowflake-emoji.png" alt="snowflake-emoji"/>
     <img width="50" height="50" src="https://img.icons8.com/color/100/visual-studio-code-2019.png" alt="Visual Studio Code">
     <img width="50" height="50" src="https://img.icons8.com/color/100/intellij-idea.png" alt="IntelliJ IDEA">
     <img width="50" height="50" src="https://img.icons8.com/color/100/pycharm.png" alt="PyCharm">
@@ -47,10 +48,12 @@
     <img width="50" height="50" src="https://img.icons8.com/officexs/80/java-eclipse.png" alt="Eclipse">
     <img width="50" height="50" src="https://img.icons8.com/color/144/apache-netbeans.png" alt="Netbeans"/>
     <img width="50" height="50" src="https://img.icons8.com/color/100/git.png" alt="Git">
+    <img width="43" height="43" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-bitbucket-is-a-web-based-version-control-repository-hosting-service-logo-shadow-tal-revivo.png" alt="external-bitbucket-is-a-web-based-version-control-repository-hosting-service-logo-shadow-tal-revivo"/>
+    <img width="50" height="50" src="https://img.icons8.com/color/240/gitlab.png" alt="Gitlab"/>
     <img width="50" height="50" src="https://img.icons8.com/fluency/144/azure-1.png" alt="Azure"/>
     <img width="50" height="50" src="https://img.icons8.com/nolan/128/amazon-web-services.png" alt="AWS"/>
     <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman">
-    <img width="50" height="50" src="https://img.icons8.com/color/100/docker.png" alt="Docker">
+    <img width="50" height="50" src="https://img.icons8.com/fluency/240/docker.png" alt="docker"/>
     <img width="50" height="50" src="https://img.icons8.com/color/96/linux--v1.png" alt="Linux"/>
     <img width="50" height="50" src="https://img.icons8.com/color/100/ubuntu.png" alt="Ubuntu">
     <img width="50" height="50" src="https://img.icons8.com/color/100/kali-linux.png" alt="Kali Linux">
