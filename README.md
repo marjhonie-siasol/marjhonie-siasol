@@ -4,16 +4,16 @@
 
 <div align="right">
   <a href="https://www.linkedin.com/in/marjhonie-siasol/" target="_blank">
-    <img src="https://img.icons8.com/color/240/linkedin-circled--v1.png" alt="LinkedIn" width="40" align="left"/>
+    <img src="https://img.icons8.com/color/240/linkedin-circled--v1.png" alt="LinkedIn" width="35" align="left"/>
   </a>
   <a href="https://www.facebook.com/marjhonie.dev" target="_blank">
-    <img src="https://img.icons8.com/fluency/240/facebook-new.png" alt="Facebook" width="40" align="left"/>
+    <img src="https://img.icons8.com/fluency/240/facebook-new.png" alt="Facebook" width="35" align="left"/>
   </a>
   <a href="https://www.instagram.com/marjhonie.dev/" target="_blank">
-    <img src="https://img.icons8.com/fluency/240/instagram-new.png" alt="Instagram" width="44" align="left"/>
+    <img src="https://img.icons8.com/fluency/240/instagram-new.png" alt="Instagram" width="40" align="left"/>
   </a>
   <a href="https://www.tiktok.com/@marjhonie.dev" target="_blank">
-    <img src="https://img.icons8.com/color/480/tiktok--v1.png" alt="TikTok" width="44" align="left"/>
+    <img src="https://img.icons8.com/color/480/tiktok--v1.png" alt="TikTok" width="40" align="left"/>
   </a>
 
   <img src="https://img.icons8.com/color/100/gmail-new.png" alt="gmail" width="25" align="center"/> siasolmarjhonie@gmail.com
@@ -23,7 +23,7 @@
 
 ---
 
-### <img src="https://github.com/user-attachments/assets/744e0cbd-18c1-4db7-9317-56dc9cf90619" alt="image" width="25" /> Stack & Tools
+### <img src="https://github.com/user-attachments/assets/744e0cbd-18c1-4db7-9317-56dc9cf90619" alt="image" width="25" align="center"/> Stack & Tools
 
 <br>
 
