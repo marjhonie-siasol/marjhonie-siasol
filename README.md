@@ -1,57 +1,63 @@
-# 🧑🏻‍💻 Full-Stack Software Engineer 
+# <img src="https://github.com/user-attachments/assets/2dd2612e-52c8-4733-aaf5-ba02b0d2797c" alt="image" width="80" align="center" /><img src="https://github.com/user-attachments/assets/bbaccd70-2903-44c4-bee7-4d6b1fb14bab" alt="image" width="75" align="center" /> **Full-Stack Developer** <img src="https://github.com/user-attachments/assets/ef91acaf-f840-47b3-a61e-23ec73050d81" alt="image" width="80" align="center" />
+ 
 
-⚙️ **AI Developer** ‎ |‎ ‎ 📩 **<a href="mailto:siasolmarjhonie@gmail.com">siasolmarjhonie@gmail.com</a>**
 
-<a href="https://www.linkedin.com/in/marjhonie-siasol/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn" width="40" height="40"/></a>
-<a href="https://www.tiktok.com/@marjhonie.dev" target="_blank"><img src="https://img.icons8.com/color/48/000000/tiktok--v1.png" alt="TikTok" width="40" height="40"/></a>
-<a href="https://www.instagram.com/marjhonie.dev/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/></a>
-<a href="https://www.facebook.com/marjhonie.dev" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" width="40" height="40"/></a>
+
+
+<div align="right" justify-content="center">
+  <a href="https://www.linkedin.com/in/marjhonie-siasol/" target="_blank"><img src="https://img.icons8.com/color/240/linkedin-circled--v1.png" alt="LinkedIn"width="45" height="45" align="left"/></a>
+  <a href="https://www.facebook.com/marjhonie.dev" target="_blank"><img src="https://img.icons8.com/fluency/240/facebook-new.png" alt="Facebook" width="45" height="45" align="left"/></a>
+  <a href="https://www.instagram.com/marjhonie.dev/" target="_blank"><img src="https://img.icons8.com/fluency/240/instagram-new.png" alt="Instagram" width="47" height="47" align="left"/></a>
+  <a href="https://www.tiktok.com/@marjhonie.dev" target="_blank"><img src="https://img.icons8.com/color/480/tiktok--v1.png" alt="TikTok" width="47" height="47" align="left"/></a>
+
+  <img src="https://img.icons8.com/color/100/gmail-new.png" alt="gmail" width="25" height="25" align="center"/> <span>siasolmarjhonie@gmail.com</span>
+</div>
+
+<br>
 
 ---
 
-### </ Stack & Tools >
+### <img src="https://github.com/user-attachments/assets/cb4b32e8-82fb-4d30-b88f-8639a967772b" alt="image" width="30" align="center" /> Stacks & Tools
+
+<br>
 
 <p align="left">
-  <!-- Languages & Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    <img width="50" height="50" src="https://img.icons8.com/color/100/html-5.png" alt="HTML5">
+    <img width="50" height="50" src="https://img.icons8.com/color/100/css3.png" alt="CSS3">
+    <img width="45" height="45" src="https://img.icons8.com/color/100/react-native.png" alt="React">
+    <img width="50" height="50" src="https://img.icons8.com/color/100/angularjs.png" alt="Angular">
+    <img width="50" height="50" src="https://img.icons8.com/color/100/tailwindcss.png" alt="TailwindCSS">
+    <img width="50" height="50" src="https://img.icons8.com/color/100/bootstrap.png" alt="Bootstrap">
+    <img width="50" height="50" src="https://img.icons8.com/fluency/144/node-js.png" alt="NodeJS">
+    <img width="50" height="50" src="https://img.icons8.com/officexs/160/express-js.png" alt="ExpressJS">
+    <img width="45" height="45" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png" alt="Django">
+    <img width="50" height="50" src="https://img.icons8.com/color/100/spring-logo.png" alt="Spring Boot">
+    <img width="50" height="50" src="https://img.icons8.com/color/100/java-coffee-cup-logo.png" alt="Java">
+    <img width="50" height="50" src="https://img.icons8.com/color/100/python.png" alt="Python">
+    <img width="50" height="50" src="https://img.icons8.com/color/100/javascript.png" alt="JavaScript">
+    <img width="50" height="50" src="https://img.icons8.com/color/100/typescript.png" alt="TypeScript">
+    <img width="45" height="45" src="https://img.icons8.com/external-those-icons-flat-those-icons/96/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="MySQL">
+    <img width="50" height="50" src="https://img.icons8.com/color/100/postgreesql.png" alt="PostgreSQL"/>
+    <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="MongoDB">
+    <img width="50" height="50" src="https://img.icons8.com/color/100/firebase.png" alt="Firebase">
+    <img width="50" height="50" src="https://img.icons8.com/color/100/visual-studio-code-2019.png" alt="Visual Studio Code">
+    <img width="50" height="50" src="https://img.icons8.com/color/100/intellij-idea.png" alt="IntelliJ IDEA">
+    <img width="50" height="50" src="https://img.icons8.com/color/100/pycharm.png" alt="PyCharm">
+    <img width="50" height="50" src="https://img.icons8.com/fluency/144/jupyter.png" alt="Jupyter Lab">
+    <img width="50" height="50" src="https://img.icons8.com/officexs/80/java-eclipse.png" alt="Eclipse">
+    <img width="50" height="50" src="https://img.icons8.com/color/144/apache-netbeans.png" alt="Netbeans"/>
+    <img width="50" height="50" src="https://img.icons8.com/color/100/git.png" alt="Git">
+    <img width="50" height="50" src="https://img.icons8.com/fluency/144/azure-1.png" alt="Azure"/>
+    <img width="50" height="50" src="https://img.icons8.com/nolan/128/amazon-web-services.png" alt="AWS"/>
+    <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman">
+    <img width="50" height="50" src="https://img.icons8.com/color/100/docker.png" alt="Docker">
+    <img width="50" height="50" src="https://img.icons8.com/color/96/linux--v1.png" alt="Linux"/>
+    <img width="50" height="50" src="https://img.icons8.com/color/100/ubuntu.png" alt="Ubuntu">
+    <img width="50" height="50" src="https://img.icons8.com/color/100/kali-linux.png" alt="Kali Linux">
+    <img width="50" height="50" src="https://img.icons8.com/color/100/arch-linux.png" alt="Arch Linux">
+</div>
 
-  <!-- Backend & Frameworks -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
 
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-
-<!-- Other Skills -->
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Jupyter%20Lab-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Lab" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/XAMPP-FB7A1F?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
 </p>
 
 ---
