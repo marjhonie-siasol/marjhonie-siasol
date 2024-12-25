@@ -42,7 +42,7 @@
   <img width="50" src="https://img.icons8.com/color/100/javascript.png" alt="JavaScript" />
   <img width="50" src="https://img.icons8.com/color/100/typescript.png" alt="TypeScript" />
   <img width="50" src="https://img.icons8.com/color/100/python.png" alt="Python" />
-  <img width="50" src="https://img.icons8.com/color/100/java-coffee-cup-logo.png" alt="Java" />
+  <img width="53" src="https://img.icons8.com/color/100/java-coffee-cup-logo.png" alt="Java" />
   <img width="50" src="https://img.icons8.com/external-those-icons-flat-those-icons/96/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="MySQL" />
   <img width="50" src="https://img.icons8.com/color/100/postgreesql.png" alt="PostgreSQL" />
   <img width="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="MongoDB" />
