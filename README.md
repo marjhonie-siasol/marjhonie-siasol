@@ -5,7 +5,7 @@
 
 
 <div align="right" justify-content="center">
-  <a href="https://www.linkedin.com/in/marjhonie-siasol/" target="_blank"><img src="https://img.icons8.com/color/240/linkedin-circled--v1.png" alt="LinkedIn"width="45" height="45" align="left"/></a>
+  <a href="https://www.linkedin.com/in/marjhonie-siasol/" target="_blank"><img src="https://img.icons8.com/color/240/linkedin-circled--v1.png" alt="LinkedIn"width="46" height="46" align="left"/></a>
   <a href="https://www.facebook.com/marjhonie.dev" target="_blank"><img src="https://img.icons8.com/fluency/240/facebook-new.png" alt="Facebook" width="45" height="45" align="left"/></a>
   <a href="https://www.instagram.com/marjhonie.dev/" target="_blank"><img src="https://img.icons8.com/fluency/240/instagram-new.png" alt="Instagram" width="47" height="47" align="left"/></a>
   <a href="https://www.tiktok.com/@marjhonie.dev" target="_blank"><img src="https://img.icons8.com/color/480/tiktok--v1.png" alt="TikTok" width="47" height="47" align="left"/></a>
@@ -17,7 +17,7 @@
 
 ---
 
-### <img src="https://github.com/user-attachments/assets/cb4b32e8-82fb-4d30-b88f-8639a967772b" alt="image" width="30" align="center" /> Stacks & Tools
+### <img src="https://github.com/user-attachments/assets/744e0cbd-18c1-4db7-9317-56dc9cf90619" alt="image" width="30" align="center" /> Stack & Tools
 
 <br>
 
