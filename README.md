@@ -1,4 +1,4 @@
-# <img src="https://github.com/user-attachments/assets/2dd2612e-52c8-4733-aaf5-ba02b0d2797c" alt="image" width="80" align="center" /><img src="https://github.com/user-attachments/assets/bbaccd70-2903-44c4-bee7-4d6b1fb14bab" alt="image" width="75" align="center" /> **Full-Stack Developer** <img src="https://github.com/user-attachments/assets/ef91acaf-f840-47b3-a61e-23ec73050d81" alt="image" width="80" align="center" />
+# <img src="https://github.com/user-attachments/assets/2dd2612e-52c8-4733-aaf5-ba02b0d2797c" alt="image" width="55" align="center" /><img src="https://github.com/user-attachments/assets/bbaccd70-2903-44c4-bee7-4d6b1fb14bab" alt="image" width="50" align="center" /> **Full-Stack Developer** <img src="https://github.com/user-attachments/assets/ef91acaf-f840-47b3-a61e-23ec73050d81" alt="image" width="55" align="center" />
  
 
 
@@ -55,10 +55,7 @@
     <img width="50" height="50" src="https://img.icons8.com/color/100/ubuntu.png" alt="Ubuntu">
     <img width="50" height="50" src="https://img.icons8.com/color/100/kali-linux.png" alt="Kali Linux">
     <img width="50" height="50" src="https://img.icons8.com/color/100/arch-linux.png" alt="Arch Linux">
-</div>
 
 
 </p>
-
----
 
