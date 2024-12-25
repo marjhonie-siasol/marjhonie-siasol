@@ -22,7 +22,8 @@
 
 # 
 
-### <img src="https://github.com/user-attachments/assets/744e0cbd-18c1-4db7-9317-56dc9cf90619" alt="image" width="25" align="center"/> Stack & Tools 
+### <img src="https://github.com/user-attachments/assets/744e0cbd-18c1-4db7-9317-56dc9cf90619" alt="image" width="25" align="center"/> Stack & Tools <img src="https://github.com/user-attachments/assets/f4f9c56c-39e9-4182-bc23-72508dd796cb" alt="image" width="10" align="center" />
+
 
 
 <br>
