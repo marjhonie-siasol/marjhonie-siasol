@@ -61,8 +61,8 @@
   <img width="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="Postman"/>
   <img width="50" src="https://img.icons8.com/fluency/144/azure-1.png" alt="Azure" />
   <img width="50" src="https://img.icons8.com/nolan/128/amazon-web-services.png" alt="AWS" />
-  <img width="50" src="https://img.icons8.com/color/240/firework-explosion--v1.png" alt="firework-explosion--v1"/>
-  <img width="50" src="https://img.icons8.com/fluency/240/chatgpt--v2.png" alt="chatgpt--v2"/>
+<!--   <img width="50" src="https://img.icons8.com/color/240/firework-explosion--v1.png" alt="firework-explosion--v1"/>
+  <img width="50" src="https://img.icons8.com/fluency/240/chatgpt--v2.png" alt="chatgpt--v2"/> -->
   <img width="50" src="https://img.icons8.com/fluency/240/docker.png" alt="Docker" />
   <img width="50" src="https://img.icons8.com/color/96/linux--v1.png" alt="Linux" />
   <img width="50" src="https://img.icons8.com/color/100/ubuntu.png" alt="Ubuntu" />
