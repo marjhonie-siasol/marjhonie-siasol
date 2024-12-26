@@ -1,26 +1,25 @@
 
 # <img src="https://github.com/user-attachments/assets/2dd2612e-52c8-4733-aaf5-ba02b0d2797c" alt="image" width="50" align="center"/> <img src="https://github.com/user-attachments/assets/bbaccd70-2903-44c4-bee7-4d6b1fb14bab" alt="image" width="45" align="center"/> **Full-stack Developer** <img src="https://github.com/user-attachments/assets/ef91acaf-f840-47b3-a61e-23ec73050d81" alt="image" width="50" align="center"/>
 
-<div align="right">
-  <a href="https://www.linkedin.com/in/marjhonie-siasol/" target="_blank">
-    <img src="https://img.icons8.com/color/240/linkedin-circled--v1.png" alt="LinkedIn" width="40" align="left"/>
-  </a>
-  <a href="https://www.facebook.com/marjhonie.dev" target="_blank">
-    <img src="https://img.icons8.com/fluency/240/facebook-new.png" alt="Facebook" width="40" align="left"/>
-  </a>
-  <a href="https://www.instagram.com/marjhonie.dev/" target="_blank">
-    <img src="https://img.icons8.com/fluency/240/instagram-new.png" alt="Instagram" width="45" align="left"/>
-  </a>
-  <a href="https://www.tiktok.com/@marjhonie.dev" target="_blank">
-    <img src="https://img.icons8.com/color/480/tiktok--v1.png" alt="TikTok" width="45" align="left"/>
-  </a>
-
-  <img src="https://img.icons8.com/color/100/gmail-new.png" alt="gmail" width="25" align="center"/> siasolmarjhonie@gmail.com
-
+<div align="left">
+  
+  <img src="https://img.icons8.com/ios-glyphs/50/7950F2/gmail.png" alt="gmail" width="25" align="center"/> siasolmarjhonie@gmail.com
+  <img src="https://img.icons8.com/ios-glyphs/500/7950F2/phone--v1.png" alt="phone" width="23" align="center"/> +63 09664971237
+  <img src="https://img.icons8.com/glyph-neue/64/7950F2/marker--v1.png" alt="phone" width="25" align="center"/> Talisay City, Cebu, Philippines
+  <img src="https://img.icons8.com/color-glass/96/graduation-cap.png" alt="degree" width="25" align="center"/> Bachelor of Science in Information Techonology 
+  
 </div>
 
 
-# 
+<a href="https://www.linkedin.com/in/marjhonie-siasol/" align="_blank"><img src="https://img.icons8.com/color/240/linkedin-circled--v1.png" alt="LinkedIn" width="40" align="left"/></a>
+<a href="https://www.facebook.com/marjhonie.dev" target="_blank"><img src="https://img.icons8.com/fluency/240/facebook-new.png" alt="Facebook" width="40" align="left"/></a>
+<a href="https://www.instagram.com/marjhonie.dev/" target="_blank"><img src="https://img.icons8.com/fluency/240/instagram-new.png" alt="Instagram" width="45" align="left"/></a>
+<a href="https://www.tiktok.com/@marjhonie.dev" target="_blank"><img src="https://img.icons8.com/color/480/tiktok--v1.png" alt="TikTok" width="45" align="left"/></a>
+
+<br>
+
+#
+
 
 ### <img src="https://github.com/user-attachments/assets/744e0cbd-18c1-4db7-9317-56dc9cf90619" alt="image" width="25" align="center"/> Stack & Tools <img src="https://github.com/user-attachments/assets/f4f9c56c-39e9-4182-bc23-72508dd796cb" alt="image" width="10" align="center" />
 
