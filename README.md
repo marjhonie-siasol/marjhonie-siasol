@@ -45,7 +45,7 @@
   <img width="45" src="https://img.icons8.com/external-those-icons-flat-those-icons/96/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="MySQL" />
   <img width="50" src="https://img.icons8.com/color/100/postgreesql.png" alt="PostgreSQL" />
   <img width="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="MongoDB" />
-  <img width="50" src="https://img.icons8.com/color/100/firebase.png" alt="Firebase" />
+  <img width="50" src="https://img.icons8.com/fluency/96/supabase.png" alt="supabase"/>
   <img width="50" src="https://img.icons8.com/emoji/144/snowflake-emoji.png" alt="snowflake-emoji" />
   <img width="50" src="https://img.icons8.com/color/100/visual-studio-code-2019.png" alt="Visual Studio Code" />
   <img width="50" src="https://img.icons8.com/color/100/intellij-idea.png" alt="IntelliJ IDEA" />
