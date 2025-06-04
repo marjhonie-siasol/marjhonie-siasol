@@ -5,7 +5,6 @@
   
   <img src="https://img.icons8.com/color-glass/96/graduation-cap.png" alt="degree" width="25" align="center"/> Information Technology 
   <img src="https://img.icons8.com/glyph-neue/64/7950F2/marker--v1.png" alt="phone" width="23" align="center"/> Talisay City, Cebu, Philippines
-  <img src="https://img.icons8.com/ios-glyphs/500/7950F2/phone--v1.png" alt="phone" width="23" align="center"/>+63 09664971237
   <img src="https://img.icons8.com/ios-glyphs/50/7950F2/gmail.png" alt="gmail" width="23" align="center"/> siasolmarjhonie@gmail.com
   
 </div>
