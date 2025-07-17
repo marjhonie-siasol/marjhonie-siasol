@@ -1,16 +1,3 @@
-<!-- 
-  Modern, beautiful, and comprehensive README.md for Marjhonie, a Software & AI Engineer.
-  Inspired by https://github.com/abhisheknaiidu/awesome-github-profile-readme
--->
-
-<!-- Header Banner -->
-<p align="center">
-  <a href="https://github.com/marjhonie-siasol">
-    <!-- Corrected 'section' parameter -->
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=3b82f6&height=150§ion=header&text=Softwareㅤ|ㅤAiㅤEngineer&fontSize=60&animation=fadeIn&fontColor=ffffff" alt="Header Banner"/>
-  </a>
-</p>
-
 <!-- This is the new, cleaner, non-table format for skills -->
 <p align="center">
   <!-- Languages -->
@@ -48,21 +35,25 @@
 
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/marjhonie-siasol">
+    <!-- Corrected 'section' parameter -->
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=3b82f6&height=150§ion=header&text=Softwareㅤ|ㅤAiㅤEngineer&fontSize=60&animation=fadeIn&fontColor=ffffff" alt="Header Banner"/>
+    
+  </a>
+</p>
 
-### 🚀 About Me
 
-Hi, **I'm Marjhonie Siasol** a **Software AI Engineer** driven to build smart systems and full applications, from user interfaces and backend services to machine learning models and real-world AI tools. Welcome to my GitHub!
+  ### Hi 👋, I'm Marjhonie.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ <a href="#"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="30"/></a> <a href="#"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="30"/></a><a href="#"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="30"/></a><a href="#"><img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" width="30"/></a>
 
-- 🔭 I’m currently building end-to-end AI-powered web applications.
-- 🌱 I’m deeply exploring **Large Language Models (LLMs)** and **Reinforcement Learning**.
-- 👯 I’m open to collaborating on open-source projects, especially in the AI/ML space.
-- 💬 Ask me anything about **Python, AI, MLOps, or Full-Stack Development**.
-- 📫 You can reach me at **siasolmarjhonie@gmail.com**.
+- 🤖 AI/ML: Models, agents, and API integrations  
+- 💻 Full-Stack: Frontend, backend, and databases  
+- 🧱 Systems: APIs, architecture, and deployment  
+- 📚 Always learning and building new things
 
----
 
-### 📈 GitHub Stats & Activity
+
+### 📈 GitHub Activity
 
 <!-- Activity Graph -->
 <p align="center">
