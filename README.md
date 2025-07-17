@@ -44,14 +44,12 @@
 </p>
 
 
-  ### Hi 👋, I'm Marjhonie.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ         ㅤㅤㅤㅤ  ㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="siasolmarjhonie@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="30"/></a> <a href="https://www.linkedin.com/in/marjhonie-siasol/"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="30"/></a> <a href="https://www.instagram.com/marjhonie.dev/"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="30"/></a> <a href="https://www.facebook.com/marjhonie.dev"><img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" width="30"/></a>
+### Hi 👋, I'm Marjhonie.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ         ㅤㅤㅤㅤ  ㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="siasolmarjhonie@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="30"/></a> <a href="https://www.linkedin.com/in/marjhonie-siasol/"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="30"/></a> <a href="https://www.instagram.com/marjhonie.dev/"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="30"/></a> <a href="https://www.facebook.com/marjhonie.dev"><img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" width="30"/></a>
 
-- 🤖 AI/ML: Models, agents, and API integrations  
-- 💻 Full-Stack: Frontend, backend, and databases  
-- 🧱 Systems: APIs, architecture, and deployment  
+- 🤖 AI/ML: Models, Agents, and API integrations  
+- 💻 Full-Stack: Frontend, Backend, and Databases  
+- 🛠️ Systems: APIs, Architecture, and Deployment  
 - 📚 Always learning and building new things
-
-
 
 ### 📈 GitHub Activity
 
