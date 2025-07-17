@@ -35,4 +35,4 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/linux--v1.png" alt="Linux" height="30"/></a> 
 </p>
 
-Hi, I'm Marjhonie Siasol - a **Software AI Engineer** driven to build smart systems and full applications, from user interfaces and backend services to machine learning models and real-world AI tools. Welcome to my GitHub!
+<h3>Hi, I'm Marjhonie Siasol - a **Software AI Engineer** driven to build smart systems and full applications, from user interfaces and backend services to machine learning models and real-world AI tools. Welcome to my GitHub!</h3>
