@@ -38,7 +38,7 @@
 <p align="center">
   <a href="https://github.com/marjhonie-siasol">
     <!-- Corrected 'section' parameter -->
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=3b82f6&height=150§ion=header&text=Softwareㅤ|ㅤAiㅤEngineer&fontSize=60&animation=fadeIn&fontColor=ffffff" alt="Header Banner"/>
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=0271C6&height=150§ion=header&text=Softwareㅤ|ㅤAiㅤEngineer&fontSize=60&animation=fadeIn&fontColor=ffffff" alt="Header Banner"/>
     
   </a>
 </p>
@@ -49,11 +49,17 @@
 - 🤖 AI/ML: Models, Agents, and API integrations  
 - 💻 Full-Stack: Frontend, Backend, and Databases  
 - 🛠️ Systems: APIs, Architecture, and Deployment  
-- 📚 Always learning and building new things
+- 📚 Always learning and building new things 
 
-### 📈 GitHub Activity
+### 📈 Stats & Activity
 
-<!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marjhonie-siasol&bg_color=1a1b27&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=marjhonie-siasol&show_icons=true&theme=github_dark&bg_color=0D1117&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marjhonie-siasol&layout=pie&theme=github_dark&bg_color=0D1117&hide_border=true&langs_count=8" alt="Languages Used Pie Chart"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marjhonie-siasol&theme=github&bg_color=0D1117&color=0271C6&line=0271C6&point=ffffff&area=true&hide_border=true" alt="Marjhonie’s GitHub Activity Graph">
+</p>
+
+
