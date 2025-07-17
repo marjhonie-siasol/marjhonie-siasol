@@ -1,3 +1,13 @@
+
+
+<p align="center">
+  <a href="https://github.com/marjhonie-siasol">
+    <!-- Corrected 'section' parameter -->
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=0271C6&height=150§ion=header&text=Softwareㅤ|ㅤAiㅤEngineer&fontSize=60&animation=fadeIn&fontColor=ffffff" alt="Header Banner"/>
+    
+  </a>
+</p>
+
 <!-- This is the new, cleaner, non-table format for skills -->
 <p align="center">
   <!-- Languages -->
@@ -33,14 +43,6 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" height="30"/></a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/linux--v1.png" alt="Linux" height="30"/></a> 
 
-</p>
-
-<p align="center">
-  <a href="https://github.com/marjhonie-siasol">
-    <!-- Corrected 'section' parameter -->
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=0271C6&height=150§ion=header&text=Softwareㅤ|ㅤAiㅤEngineer&fontSize=60&animation=fadeIn&fontColor=ffffff" alt="Header Banner"/>
-    
-  </a>
 </p>
 
 
