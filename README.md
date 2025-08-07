@@ -53,12 +53,7 @@
 - 🛠️ Systems: APIs, Architecture, and Deployment  
 - 📚 Always learning and building new things 
 
-### 📈 Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marjhonie-siasol&show_icons=true&theme=github_dark&bg_color=0D1117&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marjhonie-siasol&layout=pie&theme=github_dark&bg_color=0D1117&hide_border=true&langs_count=8" alt="Languages Used Pie Chart"/>
-</p>
+### 📈 Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marjhonie-siasol&theme=github&bg_color=0D1117&color=0271C6&line=0271C6&point=ffffff&area=true&hide_border=true" alt="Marjhonie’s GitHub Activity Graph">
