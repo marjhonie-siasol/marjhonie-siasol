@@ -51,12 +51,13 @@
 - 🤖 AI/ML: Models, Agents, and API integrations  
 - 💻 Full-Stack: Frontend, Backend, and Databases  
 - 🛠️ Systems: APIs, Architecture, and Deployment  
-- 📚 Always learning and building new things 
+<!-- - 📚 Always learning and building new things -->
 
+<!-- 
 ### 📈 Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marjhonie-siasol&theme=github&bg_color=0D1117&color=0271C6&line=0271C6&point=ffffff&area=true&hide_border=true" alt="Marjhonie’s GitHub Activity Graph">
 </p>
-
+-->
 
