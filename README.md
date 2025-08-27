@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/marjhonie-siasol">
     <!-- Corrected 'section' parameter -->
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=0271C6&height=150§ion=header&text=Softwareㅤ|ㅤAIㅤEngineer&fontSize=60&animation=fadeIn&fontColor=ffffff" alt="Header Banner"/>
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=0271C6&height=150§ion=header&text=AI/MLㅤSoftwareㅤEngineer&fontSize=60&animation=fadeIn&fontColor=ffffff" alt="Header Banner"/>
     
   </a>
 </p>
