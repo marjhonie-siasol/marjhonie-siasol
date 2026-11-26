@@ -11,6 +11,7 @@
   <a href="https://angular.dev/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/angularjs.png" alt="Angular" height="40"/></a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/django.png" alt="Django" height="40"/></a>
   <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/golang.png" alt="Go" height="40"/></a>
+  <a href="https://rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/FA5252/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png" alt="Rust" height="40"/></a>
   <a href="https://claude.ai/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/claude-ai.png" alt="Claude Code" height="40"/></a>
   <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/chatgpt--v2.png" alt="Codex" height="40"/></a>
   <a href="https://gemini.google.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/gemini-ai.png" alt="Antigravity" height="40"/></a>
@@ -18,4 +19,11 @@
   <a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ultraviolet/40/model-context-protocol.png" alt="Model Context Protocol (MCP)" height="40"/></a>
   <a href="https://harness.io/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/harness.png" alt="Harness" height="40"/></a>
   <a href="https://antigravity.google/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/ai-agent.png" alt="Agent Skills" height="40"/></a>
+</p>
+
+
+<p align="center">
+  <a href="mailto:siasolmarjhonie@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-siasolmarjhonie%40gmail.com-0170CB?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
